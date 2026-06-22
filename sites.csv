@@ -1,0 +1,384 @@
+LOCATION_ID,ACCESS_ID,LOCATION_NM,BRAND_CD,LOCATION_TYPE,OWNERSHIP,GAS_BRAND_TXT,FSR_NM,RESTAURANT_FRANCHISE_FLG,ADDRESS_TXT,CITY_TXT,STATE_TXT,ZIP_CD,REGION_TXT,DISTRICT_TXT,LAT,LON
+86,," Virtual Headquarters",TA,HQ,COCO,,,,24601 Center Ridge Rd.,Westlake,Ohio,44145,,,41.4565000,-81.8942000
+701,6701,Goasis Ashland,Goasis,Co-Co,COCO,BP,,,715 US 250 East,Ashland,Ohio,44805,Northeast / 01,002,40.8566000,-82.2623000
+481,6481,Goasis Breezewood,Goasis,Co-Co,COCO,Mobil,,,16520 Lincoln HWY,Breezewood,Pennsylvania,15533,Northeast / 01,003,39.9987550,-78.2356436
+483,6483,Goasis Coburg Crossing,Goasis,Co-Co,COCO,Arco,,,91039 Coburg Industrial Way,Coburg,Oregon,97408,Western / 04,023,44.1351000,-123.0549100
+487,,Goasis Stony Creek,Goasis,Co-Co,COCO,Mobil,,,10396 Blue Star Hwy,Stony Creek,Virginia,23882,Northeast / 01,006,36.9769410,-77.3943130
+263,13263,Goasis Wheeler Ridge,Goasis,Co-Co,COCO,Shell,,,5615 Laval Road,Arvin,California,93203,Western / 04,026,34.9895900,-118.9408000
+20,,Open Road Distributing East,TA,HQ,COCO,,,,329 Mason Road,LaVergne,Tennessee,37086-3606,,,36.0145300,-86.6154400
+400,,Open Road Distributing West,TA,HQ,COCO,,,,4302 W Buckeye Rd. Suite 115,Phoenix,Arizona,85043,,,33.4382967,-112.1542765
+398,6398,Petro Albert Lea,Petro,Fo-Fo,Franchise,Petro,Skol Tavern,FALSE,820 Happy Trails Lane,Albert Lea,Minnesota,56007,Northeast / 01,097,43.6571000,-93.3174000
+307,6307,Petro Amarillo,Petro,Co-Co,COCO,Valero,Iron Skillet,FALSE,8500 E I-40 @ Lakeside Drive,Amarillo,Texas,79118,Western / 04,029,35.1917000,-101.7437000
+535,6535,Petro Angola,Petro,Fo-Fo,Franchise,BP,Miss J's Diner,TRUE,7265 North Baker Road,Fremont,Indiana,46737,Northeast / 01,097,41.7483000,-84.9932000
+322,6322,Petro Atlanta,Petro,Co-Co,COCO,Amoco,Iron Skillet,FALSE,3181 Donald Lee Hollowell Pkwy.,Atlanta,Georgia,30318,Northeast / 01,013,33.7865000,-84.4905000
+612,,Petro Atlanta Burger King,Petro,Co-Co,COCO,,,,3195 Donald Lee Hollowell Pkwy,Atlanta,Georgia,30318,Northeast / 01,001,33.7865423,-84.4914881
+304,6304,Petro Beaumont,Petro,Co-Co,COCO,Phillips,Black Bear Diner,FALSE,5405 Walden Rd,Beaumont,Texas,77705,Western / 04,027,30.0370000,-94.1561000
+314,6314,Petro Bordentown,Petro,Co-Co,COCO,Amoco,Iron Skillet,FALSE,402 Rising Sun Square Road,Bordentown,New Jersey,08505,Northeast / 01,004,40.1234000,-74.7131000
+376,6376,Petro Brazil,Petro,Co-Co,COCO,Amoco,Iron Skillet,FALSE,1035 W. State Road 42,Brazil,Indiana,47834,Northeast / 01,018,39.4455000,-87.1270000
+319,6319,Petro Bucksville,Petro,Co-Co,COCO,Marathon,Iron Skillet,FALSE,22526 Highway 216,McCalla,Alabama,35111,Northeast / 01,013,33.2796000,-87.0919000
+336,6336,Petro Carlisle,Petro,Co-Co,COCO,,Iron Skillet,FALSE,"1201 Harrisburg Ave, Route 11",Carlisle,Pennsylvania,17013,Northeast / 01,003,40.2319000,-77.1418000
+377,6377,Petro Carnesville,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,10200 Old Federal Rd.,Carnesville,Georgia,30521,Northeast / 01,007,34.3481000,-83.3199000
+389,6389,Petro Clearwater,Petro,Fo-Fo,Franchise,Holiday,Nelson Brothers,TRUE,950 State Highway 24,Clearwater,Minnesota,55320,Northeast / 01,097,45.4126000,-94.0549000
+386,6386,Petro Colby,Petro,Fo-Fo,Franchise,Cenex,,,700 West Horton,Colby,Kansas,67701,Western / 04,099,39.3617000,-101.0537000
+238,6238,Petro Columbia,Petro,Co-Co,COCO,BP,Quaker Steak & Lube,FALSE,2154 S. Beltline Blvd.,Columbia,South Carolina,29201,Northeast / 01,007,33.9533000,-80.9896000
+309,6309,Petro Corning,Petro,Co-Co,COCO,Mobil,Iron Skillet,FALSE,2151 South Avenue,Corning,California,96021,Western / 04,023,39.9059000,-122.1967000
+385,6385,Petro Deming,Petro,Co-Co,COCO,Valero,Iron Skillet,FALSE,14150 STE C Hwy 418 SW,Deming,New Mexico,88030,Western / 04,030,32.2386000,-107.9927000
+485,6485,Petro Dodge City,Petro,Co-Co,COCO,BP,,,426 Alabama Highway 69 S,Hanceville,Alabama,35077,Northeast / 01,013,34.0507800,-86.8723400
+321,6321,Petro Effingham,Petro,Co-Co,COCO,BP,IHOP,FALSE,1805 West Fayette Ave,Effingham,Illinois,62401,Northeast / 01,018,39.1197000,-88.5723000
+534,6534,Petro Egan,Petro,Fo-Fo,Franchise,Petro,,,114 Jasmin,Egan,Louisiana,70531,Northeast / 01,098,30.2314000,-92.4624000
+301,6301,Petro El Paso,Petro,Co-Co,COCO,Valero,Black Bear Diner,FALSE,1295 Horizon Blvd.,El Paso,Texas,79927,Western / 04,027,31.6609000,-106.2424000
+306,6306,Petro Eloy,Petro,Co-Co,COCO,Shell,Black Bear Diner,FALSE,5235 N. Sunland Gin Rd.,Casa Grande,Arizona,85131,Western / 04,032,32.8124000,-111.6702000
+361,6361,Petro Fargo,Petro,Fo-Fo,Franchise,Unbranded,Dolly Down,TRUE,4510 19th Ave S.W.,Fargo,North Dakota,58103,Northeast / 01,097,46.8503000,-96.8632000
+393,6393,Petro Florence,Petro,Co-Co,COCO,Amoco,Iron Skillet,FALSE,3001 TV Rd.,Florence,South Carolina,29501,Northeast / 01,006,34.2665000,-79.7321000
+352,6352,Petro Gadsden,Petro,Co-Co,COCO,BP,,,1724 West Grand Avenue,Gadsden,Alabama,35904,Northeast / 01,013,33.9956000,-86.0827000
+369,6369,Petro Gary,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,3001 Grant Street,Gary,Indiana,46408,Northeast / 01,016,41.5638000,-87.3557000
+537,6537,Petro Gaston,Petro,Fo-Fo,Franchise,BP,Miss J's Diner,FALSE,14000 West State Road 28,Gaston,Indiana,47342,Northeast / 01,097,40.2772000,-85.5526000
+320,6320,Petro Girard,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,1 Petro Place,Girard,Ohio,44420,Northeast / 01,002,41.1408000,-80.7172000
+372,6372,Petro Glade Spring,Petro,Fo-Fo,Franchise,Gulf,,,12433 Maple St.,Glade Spring,Virginia,24340,Northeast / 01,098,36.7708000,-81.7793000
+330,6330,Petro Glendale,Petro,Co-Co,COCO,Marathon,Iron Skillet,FALSE,554 W. Glendale Hodgenville Road,Glendale,Kentucky,42740,Northeast / 01,009,37.5984000,-85.8734000
+379,6379,Petro Greensburg,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,1409 South County Rd. 850 East,Greensburg,Indiana,47240,Northeast / 01,009,39.3188000,-85.3260000
+310,6310,Petro Hammond,Petro,Co-Co,COCO,Mobil,Iron Skillet,FALSE,2100 S.W. Railroad Ave.,Hammond,Louisiana,70403,Northeast / 01,015,30.4770000,-90.4579000
+968,6968,Petro Henderson,Petro,Fo-Fo,Franchise,76,,,1700 Railroad Pass Casino Road,Henderson,Nevada,89002,Western / 04,099,35.9670745,-114.9156744
+506,6506,Petro Jackson,Petro,Fo-Fo,Franchise,Phillips,,,970 W Frontage Road,Jackson,Mississippi,39201,Northeast / 01,098,32.2787000,-90.1977000
+399,6399,Petro Johnson's Corner,Petro,Co-Co,COCO,Sinclair,Black Bear Diner,FALSE,2842 SE Frontage Road,Johnstown,Colorado,80534,Western / 04,020,40.3630000,-104.9840000
+354,6354,Petro Joplin,Petro,Fo-Fo,Franchise,Phillips,Black Bear Diner,FALSE,4240 Highway 43,Joplin,Missouri,64804,Western / 04,097,37.0072000,-94.5523000
+395,5026,Petro Kenly,Petro,Fo-Fo,Franchise,BP,Iron Skillet,TRUE,923 Johnston Pkwy.,Kenly,North Carolina,27542,Northeast / 01,098,35.5820000,-78.1457000
+318,6318,Petro Kingdom City,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,3304 Gold Road,Kingdom City,Missouri,65262,Western / 04,019,38.9405000,-91.9399000
+315,6315,Petro Kingman,Petro,Co-Co,COCO,Petro,Iron Skillet,FALSE,970 South Blake Ranch Road,Kingman,Arizona,86401,Western / 04,032,35.1779000,-113.7887000
+344,6344,Petro Kingsland,Petro,Co-Co,COCO,Amoco,,,1105 East King Avenue,Kingsland,Georgia,31548,Northeast / 01,011,30.7942000,-81.6662000
+349,6349,Petro Kingston Springs,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,162 Luyben Hills Road,Kingston Springs,Tennessee,37082,Northeast / 01,013,36.0824000,-87.0955000
+312,6312,Petro Knoxville,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,722 Watt Road,Knoxville,Tennessee,37934,Northeast / 01,013,35.8750000,-84.2361000
+303,6303,Petro Laramie,Petro,Co-Co,COCO,Sinclair,Iron Skillet,FALSE,1855 West Curtis,Laramie,Wyoming,82070,Western / 04,020,41.3287000,-105.6194000
+329,6329,Petro Mebane,Petro,Co-Co,COCO,Marathon,IHOP,FALSE,500 Buckhorn Road,Mebane,North Carolina,27302,Northeast / 01,006,36.0772000,-79.2251000
+313,6313,Petro Milan,Petro,Co-Co,COCO,Shell,Iron Skillet,FALSE,1430 Motel Drive,Milan,New Mexico,87021,Western / 04,030,35.1810000,-107.9038000
+367,6367,Petro Monee,Petro,Co-Co,COCO,Amoco,,,5915 Monee Road,Monee,Illinois,60449,Northeast / 01,016,41.4258000,-87.7549000
+326,6326,Petro N. Little Rock,Petro,Co-Co,COCO,Shell,Iron Skillet,FALSE,3205 Valentine Road,North Little Rock,Arkansas,72117,Western / 04,029,34.7810000,-92.1298000
+388,6388,Petro Napoleon,Petro,Fo-Fo,Franchise,Petro,Miss J's Diner,TRUE,900 American Road,Napoleon,Ohio,43545,Northeast / 01,097,41.4178000,-84.1045000
+357,6357,Petro New Paris,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,9787 US Route 40 West,New Paris,Ohio,45347,Northeast / 01,009,39.8346000,-84.8111000
+325,6325,Petro North Baltimore,Petro,Co-Co,COCO,BP,IHOP,FALSE,12906 Deshler Rd.,North Baltimore,Ohio,45872,Northeast / 01,002,41.1738000,-83.6475000
+533,6533,Petro North Hillsboro,Petro,Fo-Fo,Franchise,Exxon,,FALSE,101 Cornelius Road,Hillsboro,Texas,76645,Western / 04,098,32.0794000,-97.0552000
+331,6331,Petro North Las Vegas,Petro,Co-Co,COCO,Sinclair,Iron Skillet,FALSE,6595 North Hollywood Blvd,North Las Vegas,Nevada,89115,Western / 04,017,36.2797000,-115.0261000
+460,6460,Petro Oak Grove,Petro,Co-Co,COCO,BP,,,301 SW First Street,Oak Grove,Missouri,64075,Western / 04,019,39.0150000,-94.1310000
+323,6323,Petro Ocala,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,7401 West Hwy 318,Reddick,Florida,32686,Northeast / 01,011,29.4090000,-82.2462000
+316,6316,Petro Oklahoma City,Petro,Co-Co,COCO,Valero,Iron Skillet,FALSE,20 Martin Luther King Blvd,Oklahoma City,Oklahoma,73117,Western / 04,029,35.4662000,-97.4755000
+26,5007,Petro Ontario,Petro,Co-Co,COCO,,Iron Skillet,FALSE,4325 E. Guasti Rd.,Ontario,California,91761-7807,Western / 04,032,34.0647000,-117.5566000
+538,6538,Petro Pearsall,Petro,Fo-Fo,Franchise,Valero,,,110 S. I-35 Frontage Rd.,Pearsall,Texas,78061,Western / 04,098,28.8996000,-99.1158000
+317,6317,Petro Perrysburg,Petro,Co-Co,COCO,BP,Fork and Compass,FALSE,26416 Baker Rd.,Perrysburg,Ohio,43551,Northeast / 01,002,41.5355000,-83.4664000
+324,6324,Petro Phoenix,Petro,Co-Co,COCO,Shell,Iron Skillet,FALSE,3730 Fern Valley Rd.,Phoenix,Oregon,97535,Western / 04,023,42.2795000,-122.8116000
+403,6403,Petro Portage,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,North 5800 Kinney Rd.,Portage,Wisconsin,53901,Northeast / 01,016,43.4864000,-89.4980000
+491,6491,Petro Racine,Petro,Co-Co,COCO,Mobil,Blue Badger Bar and Grill,FALSE,717 S. Sylvania Avenue,Sturtevant,Wisconsin,53177,Northeast / 01,016,42.7251200,-87.9557250
+427,6427,Petro Raphine,Petro,Co-Co,COCO,Exxon,Quaker Steak & Lube,FALSE,2440 Raphine Road,Raphine,Virginia,24472,Northeast / 01,003,37.9290000,-79.2292000
+382,6382,Petro Remington,Petro,Co-Co,COCO,BP,Iron Skillet,FALSE,4230 West Highway 24,Remington,Indiana,47977,Northeast / 01,018,40.7670000,-87.1261000
+359,6359,Petro Rochelle,Petro,Fo-Fo,Franchise,BP,Iron Skillet,TRUE,900 Petro Rd,Rochelle,Illinois,61068,Western / 04,097,41.9356000,-89.0335000
+536,6536,Petro Salina,Petro,Fo-Fo,Franchise,Petro,,,2125 N. 9th St.,Salina,Kansas,67401,Western / 04,097,38.8789000,-97.6130000
+305,6305,Petro San Antonio,Petro,Co-Co,COCO,Shell,Black Bear Diner,FALSE,1112 Ackerman Road,San Antonio,Texas,78219,Western / 04,027,29.4376000,-98.3799000
+346,6346,Petro Santa Nella,Petro,Co-Co,COCO,Petro,,,28991 West Gonzaga,Santa Nella,California,95322,Western / 04,026,37.0547000,-121.0155000
+378,6378,Petro Scranton,Petro,Co-Co,COCO,Shell,Iron Skillet/Metro Deli,FALSE,98 Grove St.,DuPont,Pennsylvania,18641,Northeast / 01,004,41.3302000,-75.7417000
+505,6505,Petro Shorter,Petro,Fo-Fo,Franchise,Phillips,,,428 Main St,Shorter,Alabama,36075,Northeast / 01,098,32.4056000,-85.9556000
+308,6308,Petro Shreveport,Petro,Co-Co,COCO,Shell,Iron Skillet,FALSE,6910 W Bert Kouns Industrial Loop,Shreveport,Louisiana,71129,Northeast / 01,015,32.4446000,-93.9010000
+338,6338,Petro Sparks,Petro,Co-Co,COCO,Mobil,Iron Skillet,FALSE,1950 East Greg St.,Sparks,Nevada,89431,Western / 04,017,39.5233000,-119.7087000
+339,6339,Petro Spokane,Petro,Co-Co,COCO,Exxon,Iron Skillet,FALSE,10506 West Aero Road,Spokane,Washington,99224,Western / 04,023,47.5906000,-117.5612000
+311,6311,Petro W. Memphis,Petro,Co-Co,COCO,Amoco,IHOP,FALSE,3900 Petro Road,West Memphis,Arkansas,72301,Western / 04,029,35.1544000,-90.1360000
+371,6371,Petro Waterloo,Petro,Co-Co,COCO,Exxon,Iron Skillet,FALSE,1255 Route 414,Waterloo,New York,13165,Northeast / 01,012,42.9653000,-76.8454000
+302,6302,Petro Weatherford,Petro,Co-Co,COCO,Valero,Iron Skillet,FALSE,2001 Santa Fe Dr,Weatherford,Texas,76086,Western / 04,028,32.7389000,-97.7654000
+392,6392,Petro Wells,Petro,Co-Co,COCO,Sinclair,Iron Skillet,FALSE,1440 6th Street,Wells,Nevada,89835,Western / 04,017,41.1010000,-114.9561000
+327,6327,Petro Wheeler Ridge,Petro,Co-Co,COCO,76,IHOP,FALSE,5821 Dennis McCarthy Dr.,Lebec,California,93243,Western / 04,026,34.9861000,-118.9481000
+390,6390,Petro Wheeler Ridge CStore #2,Petro,Co-Co,COCO,Chevron,,,5818 Dennis McCarthy Dr.,Lebec,California,93243,Western / 04,026,34.9852000,-118.9467000
+391,6391,Petro Wheeler Ridge CStore #3,Petro,Co-Co,COCO,76,,,5938 Dennis McCarthy Dr.,Lebec,California,93243,Western / 04,026,34.9831000,-118.9471000
+402,6402,Petro Wilmington,Petro,Co-Co,COCO,Amoco,,,24225 W. Lorenzo Road,Wilmington,Illinois,60481,Northeast / 01,016,41.3454000,-88.1974000
+362,6362,Petro York,Petro,Co-Co,COCO,Phillips,Iron Skillet,FALSE,4700 S. Lincoln Ave.,York,Nebraska,68467,Western / 04,019,40.8182000,-97.5989000
+37,5997,Site Testing,TA,HQ,COCO,,,,997 Center Ridge Rd.,Rocky River,Ohio,44000,,,41.4606400,-81.8561940
+501,,TA 3P Providers,TA,HQ,COCO,,,,24601 Center Ridge Road,Westlake,Ohio,44145,,,41.4633100,-81.9154360
+81,424,TA Albuquerque,TA,Co-Co,COCO,Phillips,Country Pride,FALSE,"2501 University Blvd., NE",Albuquerque,New Mexico,87107,Western / 04,030,35.1111000,-106.6247000
+55,5073,TA Amarillo,TA,Co-Co,COCO,Exxon,Black Bear Diner,FALSE,7000 E. Interstate 40,Amarillo,Texas,79118,Western / 04,029,35.1915000,-101.7589000
+89,312,TA Ann Arbor,TA,Co-Co,COCO,BP,,,200 Baker Road,Dexter,Michigan,48130,Northeast / 01,002,42.2963000,-83.8764000
+117,768,TA Antioch,TA,Co-Co,COCO,BP,,,13011 Old Hickory Blvd.,Antioch,Tennessee,37013,Northeast / 01,013,36.0150000,-86.6184000
+422,6422,TA Ash Fork,TA,Fo-Fo,Franchise,Sunoco,,,950 W Old Highway 66,Ash Fork,Arizona,86320,Western / 04,099,35.2215900,-112.4975450
+1,5045,TA Ashland,TA,Co-Co,COCO,BP,Fuddruckers,FALSE,100 North Carter Rd,Ashland,Virginia,23005-0712,Northeast / 01,006,37.7598000,-77.4631000
+414,,TA Ashland Mobile Maintenance,TA,Co-Co,COCO,,,,100 North Carter Road,Ashland,Virginia,23005-0712,Northeast / 01,006,37.7598000,-77.4631000
+954,6954,TA Atkins,TA,Fo-Fo,Franchise,Gulf,,,100 Fish Lake Road,Atkins,Arkansas,72823,Western / 04,098,35.2216200,-92.8259400
+406,,TA Atlanta Mobile Maintenance,TA,Co-Co,COCO,,,,5800 Oakley Industrial Blvd,Fairburn,Georgia,30213,Northeast / 01,001,33.7490000,-84.3880000
+268,6268,TA Atlanta South,TA,Co-Co,COCO,Marathon,IHOP,TRUE,122 Truckstop Way,Jackson,Georgia,30233-0967,Northeast / 01,007,33.2065000,-84.0585000
+56,435,TA Aurora,TA,Co-Co,COCO,Shell,,FALSE,21856 Bents Road NE,Aurora,Oregon,97002,Western / 04,023,45.2361000,-122.8072000
+247,6247,TA Baldwin,TA,Co-Co,COCO,Amoco,,,1024 US 301 South,Baldwin,Florida,32234,Northeast / 01,011,30.2855000,-81.9841000
+216,6216,TA Baltimore,TA,Co-Co,COCO,,,,5501 O'Donnell Street,Baltimore,Maryland,21224,Northeast / 01,003,39.2775000,-76.5488000
+409,,TA Baltimore Mobile Maintenance,TA,Co-Co,COCO,,,,5501 O'Donnell St Cutoff,Baltimore,Maryland,21224,Northeast / 01,005,39.2788900,-76.5481300
+151,5018,TA Baltimore South,TA,Co-Co,COCO,BP,Country Pride,FALSE,7401 Assateague Drive,Jessup,Maryland,20794,Northeast / 01,003,39.1667000,-76.7828000
+67,5034,TA Barkeyville,TA,Co-Co,COCO,BP,Country Pride,FALSE,5644 St. Rt. 8,Harrisville,Pennsylvania,16038-9641,Northeast / 01,012,41.1992000,-79.9758000
+227,6227,TA Barstow,TA,Co-Co,COCO,76,Black Bear Diner,FALSE,2930 Lenwood Road,Barstow,California,92311,Western / 04,032,34.8537000,-117.0888000
+242,6242,TA Battle Creek,TA,Co-Co,COCO,BP,Country Pride,FALSE,15874 Eleven Mile Rd.,Battle Creek,Michigan,49014,Northeast / 01,002,42.3029000,-85.0811000
+17,5044,TA Baytown,TA,Co-Co,COCO,Shell,IHOP,TRUE,6800 Thompson Road,Baytown,Texas,77521,Western / 04,027,29.7967000,-95.0311000
+270,6270,TA Bernardo,TA,Co-Co,COCO,Shell,,,6701 US Hwy 90,Sealy,Texas,77474,Western / 04,027,29.7427000,-96.3301000
+252,6252,TA Beto Junction,TA,Co-Co,COCO,Shell,Country Pride,FALSE,2775 Highway 75,Lebo,Kansas,66856,Western / 04,019,38.4276000,-95.7272000
+230,6230,TA Big Spring,TA,Co-Co,COCO,Shell,IHOP,TRUE,704 West Interstate 20,Big Spring,Texas,79720,Western / 04,028,32.2648000,-101.4900000
+207,6207,TA Binghamton,TA,Co-Co,COCO,,Country Pride,FALSE,753 Upper Court Street,Binghamton,New York,13904,Northeast / 01,012,42.1013000,-75.8418000
+92,322,TA Bloomington,TA,Co-Co,COCO,,,,505 Truckers Lane,Bloomington,Illinois,61701,Northeast / 01,018,40.4880000,-89.0262000
+212,6212,TA Bloomsburg,TA,Co-Co,COCO,Shell,Country Pride,FALSE,6 Buckhorn Road,Bloomsburg,Pennsylvania,17815,Northeast / 01,012,41.0143000,-76.4928000
+48,212,TA Bloomsbury,TA,Co-Co,COCO,Exxon,Country Pride,FALSE,975 State Route 173,Bloomsbury,New Jersey,08804,Northeast / 01,004,40.6594000,-75.0750000
+167,5053,TA Boise,TA,Co-Co,COCO,Shell,Country Pride,FALSE,4115 Broadway Ave,Boise,Idaho,83705,Western / 04,017,43.5656000,-116.1994000
+405,,TA Bowling Green Tire Retread Facility,TA,Co-Co,COCO,,,,522 E. Woodland Circle,Bowling Green,Ohio,43402,Northeast / 01,002,36.9186820,-86.4363480
+476,6476,TA Breezewood,TA,Co-Co,COCO,Exxon,,,16563 Lincoln Hwy,Breezewood,Pennsylvania,15533,Northeast / 01,003,40.0003550,-78.2340773
+528,6528,TA Bridgeport,TA,Fo-Fo,Franchise,Amoco,Miss J's Diner,FALSE,6364 Dixie Hwy,Bridgeport,Michigan,48722-9566,Northeast / 01,097,43.3517000,-83.8690000
+254,6254,TA Brooklyn,TA,Co-Co,COCO,BP,Country Pride,FALSE,4124 V18 Rd.,Brooklyn,Iowa,52211,Western / 04,019,41.6978000,-92.4459000
+3,5036,TA Brookville,TA,Co-Co,COCO,BP,,,245 Allegheny Blvd.,Brookville,Pennsylvania,15825-8211,Northeast / 01,012,41.1729000,-79.0992000
+258,6258,TA Brunswick,TA,Co-Co,COCO,BP,,,185 S. Port Parkway,Brunswick,Georgia,31523,Northeast / 01,011,31.1381000,-81.5799000
+160,429,TA Buttonwillow,TA,Co-Co,COCO,Mobil,,,27769 Lagoon Drive,Buttonwillow,California,93206-0004,Western / 04,026,35.4010000,-119.3961000
+221,6221,TA Candler,TA,Co-Co,COCO,Amoco,Country Pride,FALSE,153 Wiggins Road,Candler,North Carolina,28715,Northeast / 01,007,35.5432000,-82.7540000
+146,5071,TA Cartersville,TA,Co-Co,COCO,BP,IHOP,TRUE,981 Cassville-White Road,Cartersville,Georgia,30121,Northeast / 01,013,34.2739000,-84.8075000
+255,6255,TA Caryville,TA,Co-Co,COCO,BP,,,305 Howard Baker Hwy,Pioneer,Tennessee,37847,Northeast / 01,013,36.3771000,-84.2463000
+187,5065,TA Cheyenne,TA,Co-Co,COCO,Exxon,Country Pride,FALSE,4000 I-80 Service Road,Burns,Wyoming,82053,Western / 04,020,41.1602000,-104.5207000
+404,,TA Chicago Mobile Maintenance,TA,Co-Co,COCO,,,,5915 Monee Rd,Monee,Illinois,60449,Northeast / 01,010,41.8818320,-87.6231770
+30,5012,TA Chicago North,TA,Co-Co,COCO,Mobil,,,16650 W. Russell Road,Zion,Illinois,60099,Northeast / 01,016,42.4857000,-87.9510000
+474,,TA Cincinnati Mobile Maintenance,TA,Co-Co,COCO,,,,4991 Factory Drive,Fairfield,Ohio,45014,Northeast / 01,011,39.3450582,-84.5306027
+257,6257,TA Clayton,TA,Co-Co,COCO,BP,Country Pride,FALSE,10346 S. State Road 39,Clayton,Indiana,46118-9184,Northeast / 01,018,39.6113000,-86.4807000
+41,5050,TA Coachella,TA,Co-Co,COCO,TA,,,46155 Dillon Road,Coachella,California,92236,Western / 04,032,33.7139000,-116.1756000
+482,6482,TA Coburg,TA,Co-Co,COCO,,Coburg Crossing Cafe,FALSE,32910 E. Pearl St.,Coburg,Oregon,97408,Western / 04,023,44.1363700,-123.0573700
+6,5022,TA Columbia,TA,Co-Co,COCO,Exxon,Country Pride,FALSE,2 Simpson Road,Columbia,New Jersey,07832-0305,Northeast / 01,004,40.9317000,-75.0969000
+507,6507,TA Columbia North,TA,Fo-Fo,Franchise,Amoco,,,99 Plumbers Road,Columbia,South Carolina,29203,Northeast / 01,098,34.0747000,-80.9971000
+156,677,TA Commerce,TA,Co-Co,COCO,Amoco,Fuddruckers,FALSE,30732 Hwy 441 South,Commerce,Georgia,30529,Northeast / 01,007,34.2528000,-83.4632000
+148,5070,TA Commerce City,TA,Co-Co,COCO,TA,,,5101 Quebec Street,Commerce City,Colorado,80022,Western / 04,020,39.7901000,-104.9043000
+524,6524,TA Concordia,TA,Fo-Fo,Franchise,Amoco,,,102 N W 4th Street,Concordia,Missouri,64020-0745,Western / 04,097,38.9941000,-93.5678000
+66,528,TA Council Bluffs,TA,Co-Co,COCO,Shell,,,3210 South Seven Street,Council Bluffs,Iowa,51501,Western / 04,019,41.2287000,-95.8536000
+477,6477,TA Cowpens,TA,Co-Co,COCO,Amoco,,,175 Truck Stop Rd,Cowpens,South Carolina,29330,Northeast / 01,007,35.0468790,-81.8122810
+461,6461,TA Cuba,TA,Co-Co,COCO,Amoco,IHOP,FALSE,5922 MO - 19,Cuba,Missouri,65453,Western / 04,019,38.0738500,-91.4069400
+31,5043,TA Dallas Mobile Maintenance,TA,Co-Co,COCO,,,,4225 Port Blvd,Dallas,Texas,75241,Western / 04,028,32.8974800,-97.0404430
+150,5078,TA Dallas South,TA,Co-Co,COCO,Exxon,,,7751 Bonnie View Rd,Dallas,Texas,75241,Western / 04,028,32.6534000,-96.7517000
+208,6208,TA Dansville,TA,Co-Co,COCO,Valero,Country Pride,FALSE,9616 Commerce Drive,Dansville,New York,14437,Northeast / 01,012,42.5662000,-77.7195000
+201,6201,TA Davy Crockett Travel Center,TA,Fo-Fo,Franchise,BP,IHOP,TRUE,195 Van Hill Road,Greeneville,Tennessee,37745,Northeast / 01,098,36.3254000,-82.8354000
+11,5028,TA Dayton,TA,Co-Co,COCO,BP,,,6762 US Rte 127,Eaton,Ohio,45320-0030,Northeast / 01,009,39.8400000,-84.6282000
+241,6241,TA DeMotte,TA,Co-Co,COCO,BP,,FALSE,11166 West State Road 10,DeMotte,Indiana,46310,Northeast / 01,018,41.1456000,-87.2597000
+245,6245,TA Denmark,TA,Co-Co,COCO,Amoco,Country Pride,FALSE,"155 Hwy. 138, Providence Rd.",Denmark,Tennessee,38391-9998,Western / 04,029,35.5955000,-89.0557000
+266,6266,TA Denton,TA,Co-Co,COCO,Shell,,FALSE,6420 North I-35,Denton,Texas,76207,Western / 04,028,33.2622000,-97.1767000
+411,,TA Denver Mobile Maintenance,TA,Co-Co,COCO,,,,4990 Monaco Street,Commerce City,Colorado,80022,Western / 04,020,39.7901000,-104.9043000
+33,5006,TA Earle,TA,Co-Co,COCO,BP,,,408 Highway 149 North,Earle,Arkansas,72331,Western / 04,029,35.1364000,-90.4880000
+235,5085,TA Edinburg,TA,Co-Co,COCO,Valero,,,8301 N.Hwy. 281,Edinburg,Texas,78541-7060,Western / 04,027,26.3845000,-98.1435000
+35,5001,TA Effingham,TA,Co-Co,COCO,Amoco,,,1702 West Evergreen Ave,Effingham,Illinois,62401-1388,Northeast / 01,018,39.1364000,-88.5662000
+44,342,TA Elgin,TA,Co-Co,COCO,BP,,,19 N. 430 US Hwy 20,Hampshire,Illinois,60140,Northeast / 01,016,42.1451000,-88.5095000
+19,214,TA Elkton,TA,Co-Co,COCO,BP,,,1400 Elkton Road,Elkton,Maryland,21921,Northeast / 01,003,39.6436000,-75.7974000
+7,5002,TA Eloy,TA,Co-Co,COCO,TA,,,2949 North Toltec Road,Eloy,Arizona,85131,Western / 04,032,32.7737000,-111.6175000
+259,6259,TA Express Alexander,TA Express,Co-Co,COCO,Exxon,,,14256 US-85,Alexander,North Dakota,58831,Western / 04,023,47.8053000,-103.6452000
+282,6282,TA Express Almeda,TA Express,Fo-Fo,Franchise,TA,,,12602 South Freeway,Almeda,Texas,77047,Northeast / 01,098,29.6141000,-95.3881600
+277,6277,TA Express Baytown South,TA Express,Fo-Fo,Franchise,TA,,FALSE,5490 N Hwy 146,Baytown,Texas,77523,Northeast / 01,098,29.7773600,-94.9134600
+449,6449,TA Express Belton,TA Express,Fo-Fo,Franchise,Valero,,,8101 South Interstate Hwy 35 Service Rd.,Belton,Texas,76513,Western / 04,098,30.9854300,-97.5030020
+279,6279,TA Express Biggs Junction,TA Express,Fo-Fo,Franchise,Chevron,,,91464 Biggs-Rufus Hwy,Wasco,Oregon,97065,Western / 04,099,45.6688100,-120.8348700
+947,6947,TA Express Birmingham,TA Express,Fo-Fo,Franchise,Sunoco,,,901 Bankhead Hwy,Birmingham,Alabama,35204,Northeast / 01,098,33.5293600,-86.8511600
+917,6917,TA Express Blaine,TA Express,Fo-Fo,Franchise,76,,,1300 Boblett St,Blaine,Washington,98230,Western / 04,099,48.9912600,-122.7341200
+648,13648,TA Express Brush,TA Express,Co-Co,COCO,Conoco,,,1041 N. Colorado Avenue,Brush,Colorado,80723,Western / 04,020,40.2665000,-103.6210000
+975,6975,TA Express Carlin,TA Express,Fo-Fo,Franchise,76,,,932 Fir Street,Carlin,Nevada,89822,Western / 04,099,40.7207100,-116.1075600
+293,6293,TA Express Carthage,TA Express,Fo-Fo,Franchise,Exxon,Denny's,,1086 US 59 South,Carthage,Texas,75633,Western / 04,098,32.1298200,-94.3326000
+287,6287,TA Express Cookeville,TA Express,Fo-Fo,Franchise,TA,,,1750 Salem Road,Cookeville,Tennessee,38506,Northeast / 01,098,36.1305000,-85.4796000
+444,6444,TA Express Dale,TA Express,Fo-Fo,Franchise,Marathon,,,102 Rocket Way,Dale,Indiana,47523,Northeast / 01,097,38.1822170,-86.9861932
+456,6456,TA Express Decatur,TA Express,Fo-Fo,Franchise,Exxon,,,3400 S US Highway 287,Decatur,Texas," 76234",Western / 04,098,33.2026581,-97.5684289
+940,6940,TA Express Dubois,TA Express,Fo-Fo,Franchise,Sinclair,,,424 W. Main Street,Dubois,Idaho,83423,Western / 04,099,44.1765800,-112.2366300
+284,6284,TA Express Edgerton,TA Express,Fo-Fo,Franchise,Phillips,IHOP,TRUE,32501 W 200th Street,Edgerton,Kansas,66021,Western / 04,097,38.7628100,-94.9624800
+465,6465,TA Express Fair Play,TA Express,Co-Co,COCO,Amoco,Cheryl’s Potato Boat,FALSE,272 Herring Rd,Fair Play,South Carolina,29643,Northeast / 01,007,34.5046400,-82.9654900
+290,6290,TA Express Fairfield,TA Express,Fo-Fo,Franchise,Gulf,,,1015 West Commerce St,Fairfield,Texas,75840,Western / 04,098,31.7255900,-96.1776700
+943,6943,TA Express Fairview,TA Express,Fo-Fo,Franchise,Sunoco,,,801 W. 1st Street,Fairview,Kansas,66425,Western / 04,097,39.8412300,-95.7331100
+512,6512,TA Express Fort Wayne,TA Express,Fo-Fo,Franchise,Gulf,Miss J's Diner,,3037 Goshen Road,Fort Wayne,Indiana,46808,Northeast / 01,097,41.1185800,-85.1842100
+567,6567,TA Express Grambling,TA Express,Fo-Fo,Franchise,Exxon,,,1130 RWE Jones RD,Grambling,Louisiana,71245,Northeast / 01,098,32.5431000,-92.7107400
+948,6948,TA Express Grand Forks,TA Express,Fo-Fo,Franchise,Sunoco,,,1212 North 47th Street,Grand Forks,North Dakota,58203,Western / 04,097,47.9322000,-97.0956400
+979,6979,TA Express Grand Junction,TA Express,Fo-Fo,Franchise,Conoco,,,2222 Highway 6,Grand Junction,Colorado,81505,Western / 04,099,39.1090000,-108.6407900
+962,6962,TA Express Hazleton,TA Express,Fo-Fo,Franchise,Conoco,,,492 Can Do Expressway,Hazleton,Pennsylvania,18202,Northeast / 01,097,40.9387900,-76.0357700
+969,6969,TA Express Henderson,TA Express,Fo-Fo,Franchise,76,,,1550 Railroad Pass Casino Road,Henderson,Nevada,89002,Western / 04,099,35.9714738,-114.9105065
+502,6502,TA Express Holland,TA Express,Fo-Fo,Franchise,Gulf,,,16250 N Ave,Holland,Iowa,50642,Western / 04,097,42.4665750,-92.7672000
+941,6941,TA Express Holstein,TA Express,Fo-Fo,Franchise,Gulf,,,2010 Indorf Avenue,Holstein,Iowa,51025,Northeast / 01,097,42.4740799,-95.5441132
+939,6939,TA Express Hosston,TA Express,Fo-Fo,Franchise,Exxon,,,6411 Hwy 2,Hosston,Louisiana,71043,Northeast / 01,098,32.8979200,-93.8648400
+273,6273,TA Express Hot Springs,TA Express,Fo-Fo,Franchise,Sinclair,,,27638 US 385,Hot Springs,South Dakota,57747,Western / 04,097,43.3986000,-103.3958000
+978,6978,TA Express Houston,TA Express,Fo-Fo,Franchise,Phillips,,,4808 N McCarty Street,Houston,Texas,77013,Western / 04,098,29.8037800,-95.2649100
+442,6442,TA Express Huntsville,TA Express,Fo-Fo,Franchise,Exxon,Primo Taqueria,TRUE,500 I-45,Huntsville,Texas,77320,Western / 04,098,30.7391369,-95.5911140
+976,6976,TA Express Hutchinson,TA Express,Fo-Fo,Franchise,Sinclair,Applewood Restaurant,,1515 South Main Street,South Hutchinson,Kansas,67505,Western / 04,097,38.0085800,-97.9420900
+448,6448,TA Express Jonesboro,TA Express,Fo-Fo,Franchise,Phillips,,,3021 DR MLK JR DR,Jonesboro,Arkansas,72401,Western / 04,098,35.8080500,-90.6271900
+986,6986,TA Express Judsonia,TA Express,Fo-Fo,Franchise,Gulf,,,9674 State Highway 13,Judsonia,Arkansas,72081,Western / 04,098,35.2684400,-91.6761900
+515,6515,TA Express Junction,TA Express,Fo-Fo,Franchise,Phillips,,,115 S Segovia Access Rd,Junction,Texas,76849,Western / 04,098,30.4175800,-99.6722900
+478,6478,TA Express Kansas City,TA Express,Co-Co,COCO,Amoco,,,4610 Kansas Ave,Kansas City,Kansas,66106,Western / 04,019,39.0906260,-94.6829210
+281,6281,TA Express Kilgore,TA Express,Fo-Fo,Franchise,Gulf,,,4403 TX - 42,Kilgore,Texas,75662,Western / 04,098,32.4288420,-94.8643070
+518,6518,TA Express Kingsville,TA Express,Fo-Fo,Franchise,Phillips,,,2104 E. Corral Ave,Kingsville,Texas,78363,Western / 04,098,27.5317500,-97.8415500
+929,6929,TA Express Lamar,TA Express,Fo-Fo,Franchise,76,,,708 N. Main Street,Lamar,Colorado,81052,Western / 04,099,38.0969900,-102.6191400
+479,6479,TA Express Laplace,TA Express,Co-Co,COCO,Marathon,,,4301 Main St.,Laplace,Louisiana,70068,Northeast / 01,015,30.0862440,-90.4449590
+459,6459,TA Express Littlefield,TA Express,Fo-Fo,Franchise,Sunoco,,,3225 E Rincon Road,Littlefield,Arizona,86432,Western / 04,099,36.8933100,-113.9317200
+977,6977,TA Express Mankato,TA Express,Fo-Fo,Franchise,Phillips,Ten20 Tavern,,3010 Adams St.,Mankato,Minnesota,56001,Northeast / 01,097,44.1697100,-93.9254100
+556,6556,TA Express Medley,TA Express,Fo-Fo,Franchise,Phillips,,,12200 NW South River Drive,Medley,Florida,33178,East,0998,25.8847000,-80.3662100
+946,6946,TA Express Minden,TA Express,Fo-Fo,Franchise,Sunoco,,,2198 Highway 532,Minden,Louisiana,71055,Northeast / 01,098,32.5720300,-93.2029500
+926,6926,TA Express Mooreville,TA Express,Fo-Fo,Franchise,TA,,,590 MS 371,Mooreville,Mississippi,38857,Northeast / 01,098,34.2790820,-88.5687240
+286,6286,TA Express Mount Vernon,TA Express,Fo-Fo,Franchise,Shell,Taco Casa,TRUE,300 SE Access Rd,Mount Vernon,Texas,75457,Western / 04,098,33.1491400,-95.2093900
+289,6289,TA Express Nacogdoches,TA Express,Fo-Fo,Franchise,Gulf,Denny's,TRUE,2615 NW Stallings Drive,Nacogdoches,Texas,75964,Western / 04,098,31.6521100,-94.6787600
+171,115,TA Express New Haven,TA Express,Co-Co,COCO,BP,,,3 East Industrial Road,Branford,Connecticut,06405-6508,Northeast / 01,004,41.2968000,-72.7595000
+982,6982,TA Express New Lisbon,TA Express,Fo-Fo,Franchise,Phillips,,,1700 E Bridge Street,New Lisbon,Wisconsin,53950,Northeast / 01,097,43.8857900,-90.1466400
+555,6555,TA Express Niagara Falls,TA Express,Fo-Fo,Franchise,Gulf,,,6021 Porter Rd,Niagara Falls,New York,14304,East,097,43.1069500,-78.9944400
+510,6510,TA Express North Houston,TA Express,Fo-Fo,Franchise,Phillips,Denny's,,1104 N Sam Houston Pkwy E,Houston,Texas,77032,Western / 04,098,29.9379600,-95.3724700
+450,6450,TA Express Norwood,TA Express,Fo-Fo,Franchise,Gulf,Ozark Café,FALSE,741 State Hwy E,Norwood,Missouri,65717,Western / 04,097,37.1169071,-92.4200916
+430,6430,TA Express Olancha,TA Express,Fo-Fo,Franchise,Chevron,,,20 Gills Station Road,Olancha,California,93549,Western / 04,099,36.0477112,-117.9453874
+431,6431,TA Express Osseo,TA Express,Fo-Fo,Franchise,Gulf,Family Restaurant,FALSE,12613 Gunderson Road,Osseo,Wisconsin,54758,Northeast / 01,097,44.5782900,-91.1992600
+186,5064,TA Express Parowan,TA Express,Co-Co,COCO,Shell,,,1130 N. 100 W.,Parowan,Utah,84761,Western / 04,017,37.8607000,-112.8291000
+963,6963,TA Express Pine Grove,TA Express,Fo-Fo,Franchise,Conoco,,,482 Suedberg Road,Pine Grove,Pennsylvania,17963,Northeast / 01,097,40.5338500,-76.4317400
+445,6445,TA Express Pleasanton,TA Express,Fo-Fo,Franchise,Valero,,,109963 Interstate 37,Pleasanton,Texas,78064,Western / 04,098,28.9952090,-98.4333210
+433,6433,TA Express Riverton,TA Express,Fo-Fo,Franchise,Shell,,,2855 Overpass Road,Riverton,Illinois,62561,Western / 04,097,39.8423772,-89.5210377
+520,6520,TA Express Rock Springs,TA Express,Fo-Fo,Franchise,Gulf,,,1620 Elk Street,Rock Springs,Wyoming,82901,Western / 04,099,41.6122000,-109.2297200
+437,6437,TA Express Ronks,TA Express,Fo-Fo,Franchise,Marathon,,,2622 Lincoln Hwy East,Ronks,Pennsylvania,17527,Northeast / 01,097,40.0197000,-76.1818000
+966,6966,TA Express Savanna,TA Express,Fo-Fo,Franchise,Phillips,,,9062 US Hwy 69,Savanna,Oklahoma,74565,Western / 04,098,34.8333830,-95.8395900
+930,6930,TA Express South Coffeyville,TA Express,Fo-Fo,Franchise,TA,,,111 E. County Road 2,South Coffeyville,Oklahoma,74072,Western / 04,098,36.9854300,-95.6249800
+480,6480,TA Express St. Rose,TA Express,Co-Co,COCO,Marathon,,,10405 E. Airline Hwy,St. Rose,Louisiana,70087,Northeast / 01,015,29.9735350,-90.2990780
+418,6418,TA Express Statesboro,TA Express,Co-Co,COCO,Amoco,,,2930 Highway 301 South,Register,Georgia,30452,Northeast / 01,007,32.3030701,-81.8721550
+272,1750,TA Express Steele,TA Express,Fo-Fo,Franchise,Shell,,,620 Mitchell Avenue North,Steele,North Dakota,58482,Western / 04,097,46.8618000,-99.9157000
+486,6486,TA Express Stony Creek,TA Express,Co-Co,COCO,Exxon,,,13306 St. John Church Road,Stony Creek,Virginia,23882,Northeast / 01,006,36.9777080,-77.3954970
+274,6274,TA Express Summit,TA Express,Fo-Fo,Franchise,Cenex,,,45789 US Hwy 12,Summit,South Dakota,57266,Northeast / 01,097,45.3112000,-97.0462600
+158,5084,TA Express Tampa,TA Express,Co-Co,COCO,BP,,,11706 Tampa Gateway Blvd.,Seffner,Florida,33584,Northeast / 01,011,28.0099000,-82.3010000
+435,6435,TA Express Thomson,TA Express,Fo-Fo,Franchise,Unbranded,,,2657 Cobbham Road,Thomson,Georgia,30824,Northeast / 01,098,33.5098800,-82.4497500
+451,6451,TA Express Tonkawa,TA Express,Fo-Fo,Franchise,Phillips,,,16700 W South Ave,Tonkawa,Oklahoma,74653,Western / 04,098,36.6959800,-97.3514600
+275,6275,TA Express Vermillion,TA Express,Fo-Fo,Franchise,BP,,,47051 SD Hwy 50,Burbank,South Dakota,57010,Northeast / 01,097,42.7850000,-96.7970000
+350,6350,TA Express Vinton,TA Express,Co-Co,COCO,Valero,,,601 Westway Blvd.,Canutillo,Texas,79835,Western / 04,027,31.9581000,-106.5800000
+649,13649,TA Express Walsenburg,TA Express,Co-Co,COCO,Phillips,,,455 US-85,Walsenburg,Colorado,81089,Western / 04,020,37.6537000,-104.7938000
+488,6488,TA Express Warfield,TA Express,Co-Co,COCO,Exxon,,,12461 Old Stage Rd.,Warfield,Virginia,23889,Northeast / 01,006,36.9405939,-77.7352231
+458,6458,TA Express Wendover,TA Express,Fo-Fo,Franchise,Sunoco,Black Bear Diner,TRUE,800 Leppy Hills Blvd,West Wendover,Nevada,89883,Western / 04,099,40.7421000,-114.0588300
+283,6283,TA Express West Point,TA Express,Fo-Fo,Franchise,Gulf,,,3000 Kia Blvd,West Point,Georgia,31833,Northeast / 01,098,32.9303500,-85.1161300
+292,6292,TA Express White Hills,TA Express,Fo-Fo,Franchise,Conoco,,,19210 US Hwy 93,White Hills,Arizona,86445,Western / 04,099,35.6840000,-114.4672000
+949,6949,TA Express Williston,TA Express,Fo-Fo,Franchise,Sunoco,,,13553 64th Street,Williston,North Dakota,58801,Western / 04,097,48.3433400,-103.6158600
+519,6519,TA Fillmore,TA,Fo-Fo,Franchise,76,,,885 S Park Ave,Fillmore,Utah,84631,Western / 04,099,38.9503700,-112.3527700
+527,6527,TA Florence,TA,Fo-Fo,Franchise,BP,,,2301 W. Lucas Street,Florence,South Carolina,29501,Northeast / 01,098,34.2364000,-79.8065000
+93,5072,TA Florence,TA,Co-Co,COCO,Amoco,,,7777 Burlington Pike,Florence,Kentucky,41042,Northeast / 01,009,39.0001000,-84.6447000
+175,315,TA Foristell,TA,Co-Co,COCO,BP,,,3265 N. Service Road East,Foristell,Missouri,63348-0069,Western / 04,019,38.8171000,-90.9495000
+544,6544,TA Franklin,TA,Fo-Fo,Franchise,BP,,,4400 Peytonsville Road,Franklin,Tennessee,37064,Northeast / 01,098,35.8603000,-86.8299000
+188,5067,TA Ft. Bridger,TA,Co-Co,COCO,Shell,,,"I-80 at Bigelow Road, Exit 30",Ft. Bridger,Wyoming,82933,Western / 04,017,41.3144000,-110.5095000
+508,6508,TA Fultonville,TA,Fo-Fo,Franchise,,Miss J's Diner,TRUE,40 Riverside Drive,Fultonville,New York,12072,Northeast / 01,097,42.9485460,-74.3630640
+8,5024,TA Gallup,TA,Co-Co,COCO,Phillips,Country Pride,FALSE,3404 W Historical Highway 66,Gallup,New Mexico,87301-6841,Western / 04,030,35.5059000,-108.8359000
+231,6231,TA Ganado,TA,Co-Co,COCO,Phillips,,,"802 E. York, Hwy 59",Ganado,Texas,77962,Western / 04,027,29.0496000,-96.5034000
+932,6932,TA Garden City,TA,Fo-Fo,Franchise,Gulf,Black Bear Diner,TRUE,1265 Solar Avenue,Garden City,Kansas,67846,Western / 04,099,38.0053400,-100.8842500
+10,5013,TA Gary,TA,Co-Co,COCO,BP,,,2510 Burr St.,Gary,Indiana,46406,Northeast / 01,016,41.5730000,-87.4045000
+471,6471,TA Glenrio,TA,Co-Co,COCO,Phillips,Russell's Route 66 Café,FALSE,1583 Frontage Rd 4132,Glenrio,New Mexico,88434,Western / 04,030,35.1752465,-103.1040729
+193,512,TA Grand Island,TA,Co-Co,COCO,Shell,Country Pride,FALSE,8033 West Holling Rd.,Alda,Nebraska,68810-0167,Western / 04,019,40.7998000,-98.4960000
+951,6951,TA Grandview,TA,Fo-Fo,Franchise,TA,Applebee's/IHOP,,100 Higgins Way,Grandview,Washington,98930,Western / 04,099,46.2759100,-119.9287600
+213,6213,TA Greencastle,TA,Co-Co,COCO,BP,Country Pride,FALSE,10835 John Wayne Drive,Greencastle,Pennsylvania,17225,Northeast / 01,003,39.7846000,-77.7126000
+211,6211,TA Greenland,TA,Co-Co,COCO,BP,Country Pride,FALSE,108 Ocean Road,Greenland,New Hampshire,03840,Northeast / 01,004,43.0431000,-70.8182000
+2,5025,TA Greensboro,TA,Co-Co,COCO,BP,,,1101 NC Highway 61,Whitsett,North Carolina,27377-0218,Northeast / 01,006,36.0635000,-79.5636000
+237,6237,TA Greenwood,TA,Co-Co,COCO,Shell,,,8560 Greenwood Rd,Greenwood,Louisiana,71033,Northeast / 01,015,32.4461000,-93.9493000
+215,6215,TA Harborcreek,TA,Co-Co,COCO,BP,IHOP,FALSE,4050 Depot Road,Erie,Pennsylvania,16510,Northeast / 01,012,42.1409000,-79.9246000
+12,5037,TA Harrisburg,TA,Co-Co,COCO,,Country Pride,FALSE,7848 Linglestown Road,Harrisburg,Pennsylvania,17112-0535,Northeast / 01,003,40.3550000,-76.7241000
+80,6300,TA Headquarters,TA,HQ,COCO,,,,24601 Center Ridge Rd.,Westlake,Ohio,44145,,,41.4565000,-81.8942000
+39,186,TA Hebron,TA,Co-Co,COCO,BP,,FALSE,"10679 Lancaster Road, SE",Hebron,Ohio,43025-0520,Northeast / 01,009,39.9389000,-82.5349000
+333,6333,TA Hillsboro,TA,Co-Co,COCO,Shell,IHOP,TRUE,160 State Hwy 77,Hillsboro,Texas,76645,Western / 04,028,32.0455000,-97.0920000
+246,6246,TA Holbrook,TA,Co-Co,COCO,Shell,,,3747 Express Drive,Holbrook,Arizona,86025,Western / 04,030,34.9054000,-110.2108000
+526,6526,TA Hudson,TA,Fo-Fo,Franchise,Amoco,,,713 Hwy 12,Hudson,Wisconsin,54016-0630,Northeast / 01,097,44.9655000,-92.6785000
+276,6276,TA Huntington,TA,Fo-Fo,Franchise,Gulf,,,5945 US Hwy 30,Huntington,Oregon,97907,Western / 04,099,44.2934200,-117.2249100
+149,198,TA Hurricane,TA,Co-Co,COCO,Amoco,,,4195 State Route 34,Hurricane,West Virginia,25526-9772,Northeast / 01,009,38.4543000,-81.9350000
+513,6513,TA Jackson,TA,Fo-Fo,Franchise,Phillips,Miss J's Diner,,80 Dixon Run Road,Jackson,Ohio,45640,Northeast / 01,097,38.9964600,-82.5533500
+248,6248,TA Jacksonville South,TA,Co-Co,COCO,Amoco,,,1650 C.R. 210 West,Jacksonville,Florida,32259-2011,Northeast / 01,011,30.0661000,-81.4961000
+554,6554,TA Jane Lew,TA,Fo-Fo,Franchise,Amoco,IHOP,,102 Jesse Run Rd,Jane Lew,West Virginia,26378,East / 01,097,39.1031000,-80.3897100
+71,5048,TA Janesville,TA,Fo-Fo,Franchise,Mobil,,,3222 Hwy. 14 East,Janesville,Wisconsin,53546-8218,Northeast / 01,097,42.7143000,-88.9793000
+139,187,TA Jeffersonville,TA,Co-Co,COCO,BP,IHOP,,12403 US Rt 35 NW,Jeffersonville,Ohio,43128-0068,Northeast / 01,009,39.6166000,-83.6038000
+484,,TA Kansas City Mobile Maintenance,TA,Co-Co,COCO,,,,3801 N. Skiles Ave.,Kansas City,Missouri,64161,Western / 04,034,39.1626483,-94.4834943
+94,439,TA Kingman,TA,Co-Co,COCO,Sinclair,Black Bear Diner,FALSE,946 West Beale Street,Kingman,Arizona,86401,Western / 04,032,35.1901000,-114.0702000
+29,189,TA Kingsville,TA,Co-Co,COCO,BP,,FALSE,5551 St Rt 193,Kingsville,Ohio,44048,Northeast / 01,012,41.8765000,-80.6671000
+269,6269,TA Knoxville West,TA,Co-Co,COCO,Amoco,,,615 Watt Road,Knoxville,Tennessee,37922-1112,Northeast / 01,013,35.8731000,-84.2379000
+161,770,TA Lafayette,TA,Co-Co,COCO,Phillips,,FALSE,1701 North University Ave.,Lafayette,Louisiana,70507-6399,Northeast / 01,015,30.2521000,-92.0381000
+288,6288,TA Lake City,TA,Fo-Fo,Franchise,Sunoco,Global Bar & Grill,FALSE,14197 South US HWY 441,Lake City,Florida,32024,Northeast / 01,098,29.9955800,-82.5967200
+249,6249,TA Lake Park,TA,Co-Co,COCO,BP,,,6901 Bellville Road,Lake Park,Georgia,31636-0430,Northeast / 01,011,30.6440000,-83.1876000
+543,6543,TA Lake Station,TA,Fo-Fo,Franchise,BP,,,1201 Ripley Street,Lake Station,Indiana,46405,Northeast / 01,097,41.5906000,-87.2393000
+68,5038,TA Lamar,TA,Co-Co,COCO,BP,Country Pride,FALSE,5600 Nittany Valley Drive,Lamar,Pennsylvania,16848-0278,Northeast / 01,012,41.0275000,-77.5210000
+153,6153,TA Laredo,TA,Co-Co,COCO,Valero,IHOP,TRUE,1010 Beltway Parkway,Laredo,Texas,78045,Western / 04,027,27.6875000,-99.4634000
+14,5003,TA Las Cruces,TA,Co-Co,COCO,Shell,,,202 N. Motel Blvd,Las Cruces,New Mexico,88007,Western / 04,030,32.2977000,-106.8115000
+108,421,TA Las Vegas,TA,Co-Co,COCO,Sinclair,,,8050 Dean Martin Drive,Las Vegas,Nevada,89139,Western / 04,017,36.0433000,-115.1873000
+407,,TA Las Vegas Mobile Maintenance,TA,Co-Co,COCO,,,,8050 Dean Martin Dr.,Las Vegas,Nevada,89139,Western / 04,032,36.1699000,-115.1398000
+261,6261,TA Laurel,TA,Co-Co,COCO,Exxon,TA Cafe,FALSE,11360 South Frontage Road,Laurel,Montana,59044,Western / 04,023,45.6823000,-108.7038000
+428,6428,TA Lexington,TA,Co-Co,COCO,Amoco,IHOP,TRUE,2516 N. Lee Highway,Lexington,Virginia,24450,Northeast / 01,003,37.8318000,-79.3779000
+228,6228,TA Limon,TA,Co-Co,COCO,Phillips,Country Pride,FALSE,2200 Ninth Street,Limon,Colorado,80828,Western / 04,020,39.2710000,-103.7067000
+532,6532,TA Lincoln,TA,Fo-Fo,Franchise,BP,,,75246 Alabama 77,Lincoln,Alabama,35096,Northeast / 01,098,33.5865000,-86.1248000
+170,6170,TA Livingston,TA,Co-Co,COCO,Shell,,,435 Winton Parkway,Livingston,California,95334,Western / 04,026,37.3876000,-120.7382000
+15,5030,TA Lodi,TA,Co-Co,COCO,BP,IHOP,FALSE,8834 Lake Road,Seville,Ohio,44273-0125,Northeast / 01,002,41.0322000,-81.9078000
+24,118,TA London,TA,Co-Co,COCO,BP,,,940 US RT 42 NE,London,Ohio,43140-0560,Northeast / 01,009,39.9538000,-83.3796000
+919,6919,TA Madera,TA,Fo-Fo,Franchise,Shell,,,32603 Avenue 7,Madera,California,93637,Western / 04,099,36.8523600,-119.9518000
+45,676,TA Madison,TA,Co-Co,COCO,BP,,,2021 Eatonton Road,Madison,Georgia,30650,Northeast / 01,007,33.5524000,-83.4748000
+50,307,TA Madison,TA,Co-Co,COCO,BP,,,5901 Highway 51,DeForest,Wisconsin,53532,Northeast / 01,016,43.1745000,-89.3255000
+179,213,TA Manning,TA,Co-Co,COCO,BP,,,3014 Paxville Highway,Manning,South Carolina,29102,Northeast / 01,006,33.7046000,-80.2420000
+178,605,TA Marianna,TA,Co-Co,COCO,BP,,FALSE,2112 Highway 71 South,Marianna,Florida,32448,Northeast / 01,011,30.7187000,-85.1837000
+51,701,TA Matthews,TA,Co-Co,COCO,Amoco,,,854 State Hwy 80,Matthews,Missouri,63867,Western / 04,019,36.7582000,-89.5346000
+210,6210,TA Maybrook,TA,Co-Co,COCO,Shell,Country Pride,FALSE,125 Neelytown Road,Montgomery,New York,12549,Northeast / 01,004,41.5042000,-74.2207000
+925,6925,TA McComb,TA,Fo-Fo,Franchise,Shell,Denny's,,1120 Airport Fernwood Road,McComb,Mississippi,39648,Northeast / 01,098,31.1894900,-90.4861700
+47,756,TA Meridian,TA,Co-Co,COCO,BP,Country Pride,FALSE,2150 Russell Mt. Gilead Road,Meridian,Mississippi,39301,Northeast / 01,014,32.3962000,-88.5826000
+472,,TA Miami Mobile Maintenance,TA,Co-Co,COCO,,,,8909 20th Street,Vero Beach,Florida,32966,Northeast / 01,008,26.2294155,-80.1412408
+214,6214,TA Milesburg,TA,Co-Co,COCO,Amoco,Country Pride,FALSE,875 N. Eagle Valley Rd.,Milesburg,Pennsylvania,16853,Northeast / 01,012,40.9589000,-77.7630000
+181,5058,TA Mill City,TA,Co-Co,COCO,Mobil,,,6000 E. Frontage Road,Mill City,Nevada,89418,Western / 04,017,40.6932000,-118.0560000
+974,6974,TA Mineral Wells,TA,Fo-Fo,Franchise,Amoco,IHOP,TRUE,470 Frontage Road,Mineral Wells,West Virginia,26150,Northeast / 01,097,39.1948200,-81.5260100
+531,6531,TA Missoula,TA,Fo-Fo,Franchise,TA,,,8018 Hwy 93 N,Missoula,Montana,59808,Western / 04,099,46.9485000,-114.1298000
+54,778,TA Mobile,TA,Co-Co,COCO,BP,,,9201 Grand Bay,Grand Bay,Alabama,36541,Northeast / 01,014,30.4985000,-88.3336000
+251,6251,TA Mocksville,TA,Co-Co,COCO,Amoco,,,1670 US Hwy 601 N,Mocksville,North Carolina,27028,Northeast / 01,006,35.9250000,-80.5917000
+69,5019,TA Monroe,TA,Co-Co,COCO,BP,,,1255 N Dixie Hwy,Monroe,Michigan,48162,Northeast / 01,002,41.9267000,-83.3632000
+539,6539,TA Montgomery,TA,Fo-Fo,Franchise,Amoco,,,980 West South Blvd,Montgomery,Alabama,36105,Northeast / 01,098,32.3274600,-86.3322100
+229,6229,TA Moriarty,TA,Co-Co,COCO,Shell,Country Pride,FALSE,1700 U.S. Route 66 West,Moriarty,New Mexico,87035,Western / 04,030,35.0095000,-106.0650000
+236,6236,TA Morris,TA,Co-Co,COCO,BP,Black Bear Diner,FALSE,21 Romines Drive,Morris,Illinois,60450,Northeast / 01,018,41.3917000,-88.4203000
+43,319,TA Mt Vernon,TA,Co-Co,COCO,Marathon,,,4510 Broadway St,Mt. Vernon,Illinois,62864,Northeast / 01,018,38.3134000,-88.9594000
+924,6924,TA Mt. Vernon,TA,Fo-Fo,Franchise,Gulf,,,1501 East Mt. Vernon Blvd,Mt Vernon,Missouri,65712,Western / 04,097,37.0905923,-93.8012484
+473,,TA Nashville Mobile Maintenance,TA,Co-Co,COCO,,,,13011 Old Hickory Blvd.,Antioch,Tennessee,37013,Northeast / 01,013,36.0161045,-86.6168647
+232,6232,TA New Braunfels,TA,Co-Co,COCO,Shell,Black Bear Diner,FALSE,4817 I-35 North,New Braunfels,Texas,78130,Western / 04,027,29.7489000,-98.0579000
+408,,TA Newark Mobile Maintenance,TA,Co-Co,COCO,,,,4492 Route 130 N,Burlington,New Jersey,08016,Northeast / 01,004,40.1232900,-74.7129600
+95,104,TA North Canton,TA,Co-Co,COCO,,,,4450 Portage St. NW,Canton,Ohio,44720,Northeast / 01,002,40.8788000,-81.4295000
+52,317,TA Oak Grove,TA,Co-Co,COCO,Amoco,IHOP,TRUE,100 North Broadway,Oak Grove,Missouri,64075,Western / 04,019,39.0176000,-94.1302000
+91,5091,TA Oakley,TA,Fo-Fo,Franchise,Phillips,IHOP,TRUE,1001 Hwy 40,Oakley,Kansas,67748,Western / 04,099,39.1188000,-100.8110000
+90,502,TA Ogallala,TA,Co-Co,COCO,Sinclair,Country Pride,FALSE,103 Prospector Drive,Ogallala,Nebraska,69153-3198,Western / 04,020,41.1138000,-101.7116000
+36,5032,TA Oklahoma City East,TA,Co-Co,COCO,Valero,IHOP,TRUE,801 South Council Road,Oklahoma City,Oklahoma,73128-4218,Western / 04,029,35.4580000,-97.6556000
+59,709,TA Oklahoma City West,TA,Co-Co,COCO,Valero,,,501 South Morgan Road,Oklahoma City,Oklahoma,73128,Western / 04,029,35.4617000,-97.6906000
+162,417,TA Ontario,TA,Co-Co,COCO,Shell,Country Pride,FALSE,4265 East Guasti Road,Ontario,California,91761-1571,Western / 04,032,34.0649000,-117.5599000
+412,,TA Ontario Mobile Maintenance,TA,Co-Co,COCO,,,,4265 East Guasti Road,Ontario,California,91761,Western / 04,032,34.0648915,-117.5600139
+529,6529,TA Paulsboro,TA,Fo-Fo,Franchise,Amoco,,,171 Berkley Road,Paulsboro,New Jersey,08066,Northeast / 01,097,39.8190000,-75.2385000
+194,102,TA Pembroke,TA,Co-Co,COCO,Mobil,Country Pride,FALSE,8420 Alleghany,Corfu,New York,14036-0276,Northeast / 01,012,43.0059000,-78.4056000
+220,6220,TA Porter,TA,Co-Co,COCO,BP,,,1600 West US Hwy 20,Porter,Indiana,46304,Northeast / 01,016,41.6125000,-87.0985000
+224,6224,TA Prescott,TA,Co-Co,COCO,Shell,,,1806 Hwy 371 West,Prescott,Arkansas,71857,Western / 04,029,33.8112000,-93.4270000
+933,6933,TA Pueblo,TA,Fo-Fo,Franchise,Conoco,Black Bear Diner,TRUE,1275 Drew Dix Parkway,Pueblo,Colorado,81008,Western / 04,099,38.3443900,-104.6217000
+234,6234,TA Rawlins,TA,Co-Co,COCO,Conoco,Country Pride,FALSE,"1400 Higley Blvd., Exit 214",Rawlins,Wyoming,82301,Western / 04,020,41.7762000,-107.2243000
+57,433,TA Redding,TA,Co-Co,COCO,Arco,,,19483 Knighton Road,Redding,California,96002,Western / 04,023,40.5048000,-122.3349000
+142,210,TA Richmond,TA,Co-Co,COCO,Amoco,,,10134 Lewistown Road,Ashland,Virginia,23005,Northeast / 01,006,37.7237000,-77.4479000
+989,6989,TA Robertsdale,TA,Fo-Fo,Franchise,Gulf,Derail Diner,,27801 County Road 64,Robertsdale,Alabama,36567,Northeast / 01,098,30.6303500,-87.6158500
+49,729,TA Rockwall,TA,Co-Co,COCO,Shell,,,2105 South Goliad St.,Rockwall,Texas,75032,Western / 04,028,32.9074000,-96.4500000
+525,6525,TA Rogers,TA,Fo-Fo,Franchise,Amoco,,,13400 Rogers Drive,Rogers,Minnesota,55374-0238,Northeast / 01,097,45.1969000,-93.5492000
+147,5076,TA San Antonio,TA,Co-Co,COCO,Shell,,,6170 I-10 East,San Antonio,Texas,78219,Western / 04,027,29.4433000,-98.3618000
+163,431,TA Santa Nella,TA,Co-Co,COCO,Shell,IHOP,TRUE,12310 State Highway 33,Santa Nella,California,95322-9735,Western / 04,026,37.1101000,-121.0147000
+23,5004,TA Santa Rosa,TA,Co-Co,COCO,Shell,,,2634 Historic Route 66,Santa Rosa,New Mexico,88435-0372,Western / 04,030,34.9443000,-104.6407000
+177,604,TA Savannah,TA,Co-Co,COCO,BP,Fuddruckers,FALSE,4401 Hwy. 17,Richmond Hill,Georgia,31324-0280,Northeast / 01,007,31.9252000,-81.3327000
+116,384,TA Sawyer,TA,Co-Co,COCO,BP,,,6100 Sawyer Road,Sawyer,Michigan,49125,Northeast / 01,016,41.8845000,-86.6001000
+152,5074,TA Sayre,TA,Co-Co,COCO,Phillips,,,11603 N. 1900 Rd.,Sayre,Oklahoma,73662,Western / 04,029,35.3355000,-99.5946000
+176,5087,TA Seattle East,TA,Co-Co,COCO,Shell,,,46630 North Bend Way,North Bend,Washington,98045,Western / 04,023,47.4683000,-121.7181000
+65,5014,TA Seymour,TA,Co-Co,COCO,BP,,,2636 E. Tipton St.,Seymour,Indiana,47274-3593,Northeast / 01,009,38.9576000,-85.8366000
+983,6983,TA Shepherd,TA,Fo-Fo,Franchise,,IHOP,TRUE,10100 US Highway 59,Shepherd,Texas,77371,Western / 04,098,30.4461800,-95.0302200
+180,725,TA Slidell,TA,Co-Co,COCO,Marathon,Country Pride,FALSE,1682 Gause Blvd,Slidell,Louisiana,70458-1361,Northeast / 01,015,30.2864000,-89.7511000
+468,6468,TA Smiths Grove,TA,Co-Co,COCO,BP,,,605 S Main St,Smiths Grove,Kentucky,42171,Northeast / 01,013,37.0450270,-86.2103510
+154,5079,TA Southington,TA,Co-Co,COCO,BP,,,1875 Meriden-Waterbury Turnpike,Milldale,Connecticut,06467,Northeast / 01,004,41.5647000,-72.9102000
+172,428,TA Sparks,TA,Co-Co,COCO,Mobil,Fuddruckers,FALSE,200 North McCarren,Sparks,Nevada,89431-5419,Western / 04,017,39.5351000,-119.7361000
+25,5039,TA Spartanburg,TA,Co-Co,COCO,BP,Country Pride,FALSE,1402 East Main St.,Duncan,South Carolina,29334-9647,Northeast / 01,007,34.9140000,-82.1100000
+469,6469,TA Springer,TA,Co-Co,COCO,Phillips,Russell's Restaurant,FALSE,18 Old French Rd.,Springer,New Mexico,87747,Western / 04,030,36.4499710,-104.5928560
+413,,TA Stewartsville Mobile Maintenance,TA,Co-Co,COCO,,,,338 Liberty Road,Stewartsville,New Jersey,08886,Northeast / 01,004,40.7069000,-75.1315000
+137,310,TA Strafford,TA,Fo-Fo,Franchise,Gulf,Denny's,TRUE,225 E. Evergreen,Strafford,Missouri,65757-0069,Western / 04,097,37.2745000,-93.1152000
+426,6426,TA Sweetwater,TA,Co-Co,COCO,TA,Family Restaurant,FALSE,100 South Hopkins Rd,Sweetwater,Texas,79556,Western / 04,028,32.4485900,-100.4432700
+46,785,TA Tallulah,TA,Co-Co,COCO,Marathon,Country Pride,FALSE,224 Highway 65 South,Tallulah,Louisiana,71282,Northeast / 01,015,32.3886000,-91.2006000
+530,6530,TA Tekonsha,TA,Fo-Fo,Franchise,Amoco,,,15587 M-60,Tekonsha,Michigan,49092,Northeast / 01,097,42.1065000,-84.9897000
+233,6233,TA Terrell,TA,Co-Co,COCO,Shell,,FALSE,1700 Wilson Road,Terrell,Texas,75161,Western / 04,028,32.6908000,-96.2441000
+87,178,TA Toledo,TA,Co-Co,COCO,BP,,,3483 Libbey Road,Perrysburg,Ohio,43551-9750,Northeast / 01,002,41.5215000,-83.4624000
+225,6225,TA Tonopah,TA,Co-Co,COCO,Shell,Black Bear Diner,FALSE,1010 N. 339th Avenue,Tonopah,Arizona,85354,Western / 04,032,33.4587000,-112.7823000
+60,425,TA Tooele,TA,Co-Co,COCO,Shell,,,8836 North Highway 40,Salt Lake City,Utah,84074,Western / 04,017,40.6899000,-112.2629000
+183,5060,TA Troutdale,TA,Co-Co,COCO,Arco,Country Pride,FALSE,790 N W Frontage Road,Troutdale,Oregon,97060,Western / 04,023,45.5438000,-122.3958000
+199,5199,TA Troy,TA,Co-Co,COCO,BP,,,819 Edwardsville Rd.,Troy,Illinois,62294,Northeast / 01,018,38.7338000,-89.9098000
+347,6347,TA Truck Service Franklin,TA,Co-Co,COCO,,,,101 Trotter Lane,Franklin,Kentucky,42134,Northeast / 01,013,36.7163000,-86.5244000
+475,6475,TA Truck Service Phoenix,TA,Co-Co,COCO,,,,6741 W Latham St,Phoenix,Arizona,85043,Western / 04,032,33.4596929,-112.2055127
+16,5005,TA Tuscaloosa,TA,Co-Co,COCO,BP,,,3501 Buttermilk Road,Tuscaloosa,Alabama,35453-9364,Northeast / 01,014,33.1759000,-87.4462000
+945,6945,"TA Vernon, TX",TA,Fo-Fo,Franchise,TA,,,2817 Frontage Rd South,Vernon,Texas,76384,Western / 04,098,34.1599200,-99.2966400
+197,672,TA Vero Beach,TA,Co-Co,COCO,BP,,,8909 20th Street,Vero Beach,Florida,32966,Northeast / 01,011,27.6381000,-80.5110000
+77,5015,TA Walcott,TA,Fo-Fo,Franchise,BP,Iowa 80 Kitchen,TRUE,755 W. Iowa 80 Road,Walcott,Iowa,52773,Western / 04,097,41.6179000,-90.7815000
+28,5017,TA Walton,TA,Co-Co,COCO,BP,,FALSE,145 Richwood Road,Walton,Kentucky,41094-9526,Northeast / 01,009,38.9172000,-84.6266000
+82,5082,TA Wapakoneta,TA,Fo-Fo,Franchise,Amoco,Miss J's Diner,,1775 Bellefontaine St.,Wapakoneta,Ohio,45895,Northeast / 01,097,40.5582000,-84.1656000
+987,6987,TA Wellsville,TA,Fo-Fo,Franchise,Gulf,,,1021 Poplar Street,Wellsville,Kansas,66092,Western / 04,097,38.7076000,-95.0740400
+253,6253,TA West Greenwich,TA,Co-Co,COCO,BP,,,849 Victory Hwy West,West Greenwich,Rhode Island,02817,Northeast / 01,004,41.6081000,-71.6638000
+174,432,TA Wheat Ridge,TA,Co-Co,COCO,TA,,,12151 West 44th Avenue,Wheat Ridge,Colorado,80033-2448,Western / 04,020,39.7793000,-105.1349000
+239,6239,TA Wheeler Ridge,TA,Co-Co,COCO,Shell,Black Bear Diner,FALSE,5552 South Wheeler Ridge Road,Arvin,California,93203,Western / 04,026,34.9920000,-118.9412000
+278,,TA Wheeler Ridge QSRs,TA,Co-Co,COCO,,,,5621 Outlets at Tejon Pkwy,Arvin,California,93203,Western / 04,026,34.9920000,-118.9412000
+296,,TA Wheeler Ridge Taco Bell,TA,Co-Co,COCO,,,,5941 Dennis McCarthy Dr.,Arvin,California,93203,Western / 04,026,34.9834876,-118.9488768
+32,5047,TA Wheeling,TA,Co-Co,COCO,,Country Pride,FALSE,270 W. Alexander Road,Valley Grove,West Virginia,26060-8025,Northeast / 01,009,40.0694000,-80.5677000
+173,306,TA Whitestown,TA,Co-Co,COCO,BP,,,5930 Whitestown Pkwy,Whitestown,Indiana,46075-9801,Northeast / 01,018,39.9478000,-86.3570000
+53,656,TA Wildwood,TA,Co-Co,COCO,BP,,,556 St. Rt. 44,Wildwood,Florida,34785,Northeast / 01,011,28.8750000,-82.0939000
+226,6226,TA Willcox,TA,Co-Co,COCO,Shell,Country Pride,FALSE,1501 North Fort Grant Road,Willcox,Arizona,85643,Western / 04,030,32.2688000,-109.8479000
+958,6958,TA Williams,TA,Fo-Fo,Franchise,TA,,,3065 220th Street,Williams,Iowa,50271,Western / 04,098,42.4718300,-93.5655300
+22,5009,TA Willington,TA,Co-Co,COCO,BP,Country Pride,FALSE,327 Ruby Road,Willington,Connecticut,06279,Northeast / 01,004,41.9177000,-72.2615000
+143,217,TA Wytheville,TA,Co-Co,COCO,BP,IHOP,FALSE,1025 Peppers Ferry Road,Wytheville,Virginia,24382,Northeast / 01,006,36.9651000,-81.0676000
+58,120,TA Youngstown,TA,Co-Co,COCO,,,,5400 Seventy Six Drive,Youngstown,Ohio,44515,Northeast / 01,002,41.1225000,-80.7653000
+97,5097,TA/Petro Technology Service Center (TSC),TA,HQ,COCO,,,,11244 Threadstone Lane,Knoxville,Tennessee,37932,,,35.9091502,-84.1542355
+85,,TA/Petro Training Center,TA,HQ,COCO,,,,P.O Box  103,Seville,Ohio,44273,,,41.0322000,-81.9078000
+490,6490,Thorntons Cicero,Thorntons,Th-Th,Other,Unbranded,,,3503 South Cicero Ave,Cicero,Illinois,60804,Northeast / 01,016,41.8274354,-87.7428116
+489,6489,Thorntons Romeoville,Thorntons,Th-Th,Other,Unbranded,,,1321 N Joliet Rd,Romeoville,Illinois,60446,Northeast / 01,016,41.6682888,-88.0641379
+499,,Tire Distribution Network,TA,HQ,COCO,,,,24601 Center Ridge Road,Westlake,Ohio,44145,,,41.4633100,-81.9154360
